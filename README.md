@@ -15,11 +15,11 @@ Açıklamanın devamında kurulum, ön izleme, gerekenler ve config tanıtılaca
 
 ## Kurulum
 
-⋅⋅* İlk olarak rlanta-terzi dosyasını resources dosyanızın içine atın.
-⋅⋅* Sonrasında "items" klasörünün içinde bulunan "items.lua" dosyasında bulunan hazır itemleri qb-core/shared/items.lua dosyasına yapıştırın.
-⋅⋅* "items" Klasörünün içinde bulunan "images" klasöründeki item iconlarını kendi envanter dosyanızın iconlarının bulunduğu klasöre atın.
-⋅⋅* "rlanta-terzi" Klasörünün içinde bulunan config.lua dosyasından kişiselleştirmelerinizi yapın.
-⋅⋅* !!! Unutmayın, config üzerinden item isimlerini değiştirdiğiniz zaman kendi core dosyanızda da değişikliğe gitmelisiniz.
+* İlk olarak rlanta-terzi dosyasını resources dosyanızın içine atın.
+* Sonrasında "items" klasörünün içinde bulunan "items.lua" dosyasında bulunan hazır itemleri qb-core/shared/items.lua dosyasına yapıştırın.
+* "items" Klasörünün içinde bulunan "images" klasöründeki item iconlarını kendi envanter dosyanızın iconlarının bulunduğu klasöre atın.
+* "rlanta-terzi" Klasörünün içinde bulunan config.lua dosyasından kişiselleştirmelerinizi yapın.
+* !!! Unutmayın, config üzerinden item isimlerini değiştirdiğiniz zaman kendi core dosyanızda da değişikliğe gitmelisiniz.
 
 
 ## Ön İzleme
